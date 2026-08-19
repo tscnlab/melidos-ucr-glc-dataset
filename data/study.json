@@ -1,0 +1,97 @@
+[
+  {
+    "schema_version": "3.0.2",
+    "study_internal_id": "MELIDOS_UCR_2025",
+    "study_title": "Personal light exposure dataset for San Pedro, San José, Costa Rica",
+    "study_ethics": "Comité Ético Científico de la Universidad de Costa Rica (approval 378-2025)",
+    "study_short_description": "MeLiDos field-study data collected by the Universidad de Costa Rica (UCR) in San Pedro, San José, Costa Rica.",
+    "study_sample": "Thirty-nine included participants from the MeLiDos UCR field site; 40 participants were enrolled.",
+    "study_setting": "Field study",
+    "study_geographical_location": "Rodrigo Facio Campus, San Pedro, San José, Costa Rica, urban",
+    "study_contributors": [
+      {
+        "contributor_full_name": "Andrea Sancho-Salas",
+        "contributor_roles": [
+          "Data curation",
+          "Investigation",
+          "Methodology",
+          "Project administration",
+          "Resources",
+          "Software",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "andrea.sancho_s@ucr.ac.cr",
+        "contributor_orcid": "https://orcid.org/0000-0002-6566-2772",
+        "contributor_institution": {
+          "contributor_institution_name": "Universidad de Costa Rica",
+          "contributor_institution_city": "San Pedro, San José",
+          "contributor_institution_country": "Costa Rica"
+        }
+      },
+      {
+        "contributor_full_name": "Helga von-Breymann",
+        "contributor_roles": [
+          "Investigation",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "helga.vonbreymann@ucr.ac.cr",
+        "contributor_orcid": "https://orcid.org/0000-0002-6841-5953",
+        "contributor_institution": {
+          "contributor_institution_name": "Universidad de Costa Rica",
+          "contributor_institution_city": "San Pedro, San José",
+          "contributor_institution_country": "Costa Rica"
+        }
+      }
+    ],
+    "study_datasets": [
+      "MELIDOS_UCR_S001",
+      "MELIDOS_UCR_S002",
+      "MELIDOS_UCR_S003",
+      "MELIDOS_UCR_S004",
+      "MELIDOS_UCR_S005",
+      "MELIDOS_UCR_S006",
+      "MELIDOS_UCR_S007",
+      "MELIDOS_UCR_S008",
+      "MELIDOS_UCR_S009",
+      "MELIDOS_UCR_S010",
+      "MELIDOS_UCR_S011",
+      "MELIDOS_UCR_S012",
+      "MELIDOS_UCR_S013",
+      "MELIDOS_UCR_S014",
+      "MELIDOS_UCR_S015",
+      "MELIDOS_UCR_S016",
+      "MELIDOS_UCR_S017",
+      "MELIDOS_UCR_S018",
+      "MELIDOS_UCR_S019",
+      "MELIDOS_UCR_S020",
+      "MELIDOS_UCR_S021",
+      "MELIDOS_UCR_S022",
+      "MELIDOS_UCR_S023",
+      "MELIDOS_UCR_S025",
+      "MELIDOS_UCR_S026",
+      "MELIDOS_UCR_S027",
+      "MELIDOS_UCR_S028",
+      "MELIDOS_UCR_S029",
+      "MELIDOS_UCR_S030",
+      "MELIDOS_UCR_S031",
+      "MELIDOS_UCR_S032",
+      "MELIDOS_UCR_S033",
+      "MELIDOS_UCR_S034",
+      "MELIDOS_UCR_S035",
+      "MELIDOS_UCR_S036",
+      "MELIDOS_UCR_S037",
+      "MELIDOS_UCR_S038",
+      "MELIDOS_UCR_S039",
+      "MELIDOS_UCR_S040"
+    ],
+    "study_type": "field study",
+    "study_keywords": [
+      "light exposure",
+      "circadian",
+      "wearable sensor",
+      "MeLiDos",
+      "San José",
+      "Costa Rica"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"UCR_S039","2025-08-26 23:30:00","2025-08-26 23:35:00","2025-08-27 06:00:00","2025-08-27 06:03:00",5,0,0,4,2,"Podría seguir durmiendo","2025-08-26 23:40:00",6.33333333333333,"I could keep sleeping"
+"UCR_S039","2025-08-27 21:20:00","2025-08-27 21:45:00","2025-08-28 05:05:00","2025-08-28 05:05:00",5,0,0,3,2,"sigo con sueño","2025-08-27 21:50:00",7.25,"I am still sleepy"
+"UCR_S039","2025-08-28 22:10:00","2025-08-28 22:20:00","2025-08-29 05:55:00","2025-08-29 06:40:00",5,1,10,3,2,"esta vez no siento tanto sueño, porque me desperté sin alarma","2025-08-28 22:25:00",7.5,"this time I don't feel as sleepy, because I woke up without an alarm"
+"UCR_S039","2025-08-29 22:53:00","2025-08-29 23:05:00","2025-08-30 07:00:00","2025-08-30 07:30:00",10,2,5,4,1,"me despertó mi perrito en la noche","2025-08-29 23:15:00",7.75,"my little dog woke me up at night"
+"UCR_S039","2025-08-31 00:45:00","2025-08-31 00:45:00","2025-08-31 06:00:00","2025-08-31 06:00:00",10,1,5,2,1,"sigo con sueño","2025-08-31 00:55:00",5.08333333333333,"I am still sleepy"
+"UCR_S039","2025-08-31 21:15:00","2025-08-31 22:40:00","2025-09-01 05:30:00","2025-09-01 05:30:00",20,0,0,5,2,"sigo con sueño","2025-08-31 23:00:00",6.5,"I am still sleepy"
+"UCR_S039","2025-09-01 21:10:00","2025-09-01 21:30:00","2025-09-02 05:00:00","2025-09-02 05:05:00",10,0,0,3,2,"podría seguir durmienfo","2025-09-01 21:40:00",7.33333333333333,"I could keep sleeping"

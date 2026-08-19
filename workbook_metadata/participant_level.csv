@@ -1,0 +1,11 @@
+Component,Level,Name,Required,Type,Description
+Participant (participant.json),0,,,object,Descriptor for study participant,1,,,,,,,2
+,1,participant_internal_id,Yes,string,Unique ID for participant,UCR_S001,,,,,,,UCR_S002,UCR_S003,UCR_S004,UCR_S005,UCR_S006,UCR_S007,UCR_S008,UCR_S009,UCR_S010,UCR_S011,UCR_S012,UCR_S013,UCR_S014,UCR_S015,UCR_S016,UCR_S017,UCR_S018,UCR_S019,UCR_S020,UCR_S021,UCR_S022,UCR_S023,UCR_S025,UCR_S026,UCR_S027,UCR_S028,UCR_S029,UCR_S030,UCR_S031,UCR_S032,UCR_S033,UCR_S034,UCR_S035,UCR_S036,UCR_S037,UCR_S038,UCR_S039,UCR_S040
+,1,participant_age,Yes,integer,Age of the participant at the time of first participation,20,,,,,,,30
+,1,participant_sex,No,string,"Sex of participant, if recorded",male,,,,,,,female
+,1,participant_gender,No,string,"Gender of participant, if required",male,,,,,,,female
+,1,participant_characteristic,No,array of objects,Biological and non-biological characteristics of participant,1,2,3,4,,,…,1,2
+,2,participant_characteristic_name,Yes,string,Name of the characteristic,Chronotype,eye color,height,weight,,,,Chronotype,eye color
+,2,participant_characteristic_value,Yes,string,Value of the charactericstic,54,blue,180,75,,,,40,brown
+,2,participant_characteristic_unit,No,String,Unit of the characteristic,-,-,cm,kg,,,,-,-
+,2,participant_characteristic_description,No,string,Description of the characteristic,DMEQ,Iris color,"Body height, measured during briefing session","Body weight, measured during briefing session",,,,DMEQ,Iris color

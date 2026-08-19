@@ -1,0 +1,8 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"UCR_S025","2025-08-04 23:40:00","2025-08-04 23:40:00","2025-08-05 07:30:00","2025-08-05 07:36:00",20,3,3,3,2,"despertar antes del sonido de la alarma","2025-08-05 00:00:00",7.5,"waking up before the sound of the alarm"
+"UCR_S025","2025-08-05 23:30:00","2025-08-05 23:50:00","2025-08-06 07:30:00","2025-08-06 07:38:00",10,0,0,5,2,"sueño constante","2025-08-06 00:00:00",7.5,"constant sleepiness"
+"UCR_S025","2025-08-06 23:50:00","2025-08-06 23:50:00","2025-08-07 06:30:00","2025-08-07 06:30:00",30,1,30,2,2,"problemas para volver a dormir después del primer despertar a las 3:23am","2025-08-07 00:20:00",6.16666666666667,"problems falling back asleep after the first awakening at 3:23am"
+"UCR_S025","2025-08-07 23:30:00","2025-08-07 23:57:00","2025-08-08 07:00:00","2025-08-08 07:00:00",20,4,10,3,2,"dificultad par concebir el sueño","2025-08-08 00:17:00",6.71666666666667,"difficulty falling asleep"
+"UCR_S025","2025-08-09 01:10:00","2025-08-09 01:10:00","2025-08-09 08:00:00","2025-08-09 08:06:00",5,0,0,5,1,"sueño continuo","2025-08-09 01:15:00",6.75,"continuous sleep"
+"UCR_S025","2025-08-09 23:40:00","2025-08-09 23:59:00","2025-08-10 08:30:00","2025-08-10 08:35:00",10,3,5,4,2,"sueño continuo","2025-08-10 00:09:00",8.35,"continuous sleep"
+"UCR_S025","2025-08-10 23:00:00","2025-08-10 23:40:00","2025-08-11 07:00:00","2025-08-11 07:07:00",15,0,0,5,2,"sueño profundo y constante","2025-08-10 23:55:00",7.08333333333333,"deep and constant sleep"

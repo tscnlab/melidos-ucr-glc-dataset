@@ -1,0 +1,64 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Personal light exposure dataset for San Pedro, San José,
+  Costa Rica
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Andrea
+    family-names: Sancho-Salas
+    email: andrea.sancho_s@ucr.ac.cr
+    affiliation: Universidad de Costa Rica
+    orcid: 'https://orcid.org/0000-0002-6566-2772'
+  - given-names: Helga
+    family-names: von-Breymann
+    email: helga.vonbreymann@ucr.ac.cr
+    orcid: 'https://orcid.org/0000-0002-6841-5953'
+    affiliation: Universidad de Costa Rica
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17293236
+    description: Zenodo archive (V1.0.0)
+  - type: doi
+    value: 10.5281/zenodo.17289456
+    description: Zenodo Archive (latest version)
+repository-code: 'https://github.com/tscnlab/melidos-ucr-glc-dataset'
+url: 'https://www.melidos.eu'
+abstract: >-
+  This repository contains the comprehensive dataset for the
+  field study site of San Pedro, San José, Costa Rica. Data
+  were collected by the Universidad de Costa Rica (UCR) and
+  are further processed and analysed by the Translational
+  Sensory & Circadian Neuroscience Unit (TSCN). A detailed
+  description of the experiment is available in Guidolin et
+  al., 2024
+keywords:
+  - light exposure
+  - wearable
+  - healthy light
+  - circadian
+  - melanopic
+  - naturalistic setting
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2025-10-07'

@@ -1,0 +1,15 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"UCR_S020","2025-07-21 22:15:00","sleep",523,"2025-07-22 06:58:00",3,,2,,0,,,,
+"UCR_S020","2025-07-22 11:51:00","off",23,"2025-07-22 12:14:00",1,3,1,,,0,"encima de una mesa cercana al baño",1,"on top of a table near the bathroom"
+"UCR_S020","2025-07-22 22:24:00","sleep",424,"2025-07-23 05:28:00",3,,1,,,,,,
+"UCR_S020","2025-07-23 11:02:00","off",33,"2025-07-23 11:35:00",1,3,1,,,0,"dentro del bulto",1,"inside the bundle"
+"UCR_S020","2025-07-23 22:30:00","sleep",422,"2025-07-24 05:32:00",3,,1,,,,,,
+"UCR_S020","2025-07-24 11:40:00","off",22,"2025-07-24 12:02:00",1,3,1,,,0,"dentro del bulto",1,"inside the bundle"
+"UCR_S020","2025-07-24 23:33:00","sleep",462,"2025-07-25 07:15:00",3,,1,,,,,,
+"UCR_S020","2025-07-25 19:04:00","off",12,"2025-07-25 19:16:00",1,3,1,,,0,"en una mesa cerca del baño",1,"on a table near the bathroom"
+"UCR_S020","2025-07-26 00:16:00","sleep",361,"2025-07-26 06:17:00",3,,1,,,,,,
+"UCR_S020","2025-07-26 08:19:00","off",23,"2025-07-26 08:42:00",1,3,1,,,0,"encima de una mesa cerca del baño",1,"on top of a table near the bathroom"
+"UCR_S020","2025-07-26 23:40:00","sleep",416,"2025-07-27 06:36:00",3,,1,,,,,,
+"UCR_S020","2025-07-27 09:20:00","off",35,"2025-07-27 09:55:00",1,3,1,,,0,"encima de una mesa cerca del baño",1,"on top of a table near the bathroom"
+"UCR_S020","2025-07-27 22:26:00","sleep",554,"2025-07-28 07:40:00",3,,1,,,,,,
+"UCR_S020","2025-07-28 08:06:00","off",21,"2025-07-28 08:27:00",1,3,1,,,0,"encima de la mesa cerca del baño",1,"on the table near the bathroom"

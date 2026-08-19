@@ -1,0 +1,16 @@
+Component,Level,Name,Description
+,1,study_ethics,Name of ethics committee and approval number,"Comité Ético Científico de la Universidad de Costa Rica
+Approval n: 378-2025"
+,1,study_geographical location,"Geographical location and context (city, rural, urban)","Rodrigo Facio Campus, San Pedro, San José Costa Rica, city
+9.9372° N, 84.0509° W"
+
+Component,Level,Name,Description
+Contributor (contributor.json),0,,Descriptor for contributor to the study
+,1,contributor_full_name,Conributor Full name,Andrea Sancho-Salas,Helga Von-Breymann,Johannes Zauern,Manuel Spitschan
+,1,contributor_roles,Contributor Roles,"Investigation (data collection), Project administration, Data curation, Software, Methodology (adaptation to local context), Resources, Writing – review & editing","Data collection, writing-review and editing."
+,1,contributor_email,Email address,andrea.sancho_s@ucr.ac.cr,helga.vonbreymann@ucr.ac.cr 
+,1,contributor_orcid,ORCID identifier,0000-0002-6566-2772,0000-0002-6841-5953
+,1,contributor_institution,Institution
+,2,contributor_institution_name,Name of institution,Universidad de Costa Rica,Universidad de Costa Rica
+,2,contributor_institution_city,City of institution,"San Pedro, San José","San Pedro, San José"
+,2,contributor_institution_country,Country of institution,Costa Rica,Costa Rica

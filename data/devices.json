@@ -1,0 +1,439 @@
+[
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL01",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5397",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL02",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "4996",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL03",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5467",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL04",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5399",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL05",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5179",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL06",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5501",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL07",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5457",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL08",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5237",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL09",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "5379",
+    "device_calibration_date": "2025-04-23",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL10",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6305",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL11",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6121",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL12",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6132",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL13",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6115",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL14",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6111",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL15",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6837",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL16",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6253",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL17",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6679",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL18",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6359",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  },
+  {
+    "schema_version": "3.0.2",
+    "device_internal_id": "UCR_AL19",
+    "device_manufacturer": "Condor Instruments",
+    "device_model": "ActLumus AL0101",
+    "device_serial_number": "6306",
+    "device_calibration_date": "2025-07-07",
+    "device_datasheet_id": "actlumus-al0101",
+    "device_sensors": [
+      {
+        "device_sensor_type": "spectral, photopic, and melanopic light sensor"
+      },
+      {
+        "device_sensor_type": "triaxial accelerometer"
+      },
+      {
+        "device_sensor_type": "temperature sensor"
+      },
+      {
+        "device_sensor_type": "capacitive off-wrist sensor"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"UCR_S028","2025-08-11",1,2,2,"30min de ejercicio suave en el gimnasio máquinas +55min pilates + caminatas de 10min",25,600,0,"2025-08-11 22:17:47","2025-08-11 22:25:00",
+"UCR_S028","2025-08-12",1,2,2,"rutina corta en el gimnasio 35min +20min natación",10,420,1,"2025-08-12 22:08:07","2025-08-12 22:11:14",
+"UCR_S028","2025-08-13",1,4,,,10,540,,"2025-08-13 22:34:26","2025-08-13 22:34:47",
+"UCR_S028","2025-08-14",1,4,,,20,420,,"2025-08-14 22:06:22","2025-08-14 22:07:45",
+"UCR_S028","2025-08-16",1,2,1,"hiking a una catarata",60,200,1,"2025-08-16 22:10:55","2025-08-16 22:15:07",
+"UCR_S028","2025-08-17",1,3,1,"sacar a pasear al perro, caminar en actividades en una fiesta de niños",20,600,1,"2025-08-17 21:51:55","2025-08-17 21:55:37",

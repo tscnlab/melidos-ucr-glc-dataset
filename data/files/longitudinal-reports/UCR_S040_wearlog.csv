@@ -1,0 +1,14 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"UCR_S040","2025-09-01 05:01:00","off",22,"2025-09-01 05:23:00",1,3,1,,,0,"envuelta en un paño en el baño",1,"wrapped in a cloth in the bathroom"
+"UCR_S040","2025-09-01 22:46:00","sleep",384,"2025-09-02 05:10:00",3,,1,,,,,,
+"UCR_S040","2025-09-02 05:10:00","off",22,"2025-09-02 05:32:00",1,3,1,,,0,"en un paño",1,"on a cloth"
+"UCR_S040","2025-09-02 23:26:00","sleep",336,"2025-09-03 05:02:00",3,,1,,,,,,
+"UCR_S040","2025-09-03 05:02:00","off",19,"2025-09-03 05:21:00",1,3,1,,,0,"en un paño en el piso",1,"on a cloth on the floor"
+"UCR_S040","2025-09-03 23:10:00","sleep",351,"2025-09-04 05:01:00",3,,1,,,,,,
+"UCR_S040","2025-09-04 05:01:00","off",37,"2025-09-04 05:38:00",1,3,1,,,0,"en un paño en elpiso",1,"on a cloth on the floor"
+"UCR_S040","2025-09-05 01:06:00","sleep",262,"2025-09-05 05:28:00",3,,1,,,,,,
+"UCR_S040","2025-09-05 05:28:00","off",94,"2025-09-05 07:02:00",1,3,1,,,0,"Dentro de un paño en el piso",1,"Inside a cloth on the floor"
+"UCR_S040","2025-09-06 00:08:00","sleep",362,"2025-09-06 06:10:00",3,,1,,,,,,
+"UCR_S040","2025-09-06 07:38:00","off",260,"2025-09-06 11:58:00",1,3,1,,,0,"en un maletín. voy a nadar",1,"in a briefcase. I'm going to swim"
+"UCR_S040","2025-09-07 01:39:00","sleep",352,"2025-09-07 07:31:00",3,,1,,,,,,
+"UCR_S040","2025-09-07 09:58:00","off",45,"2025-09-07 10:43:00",1,3,1,,,0,"en el npiso envuelto",1,"on the floor wrapped"

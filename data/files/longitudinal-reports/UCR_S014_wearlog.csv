@@ -1,0 +1,14 @@
+"Id","start","state","duration","end","wearlog_event","reason","wearlog_type","radius","wearlog_bp","wearlog_bag","wearlog_place","wearlog_motion","wearlog_place_english"
+"UCR_S014","2025-07-14 21:07:00","sleep",472,"2025-07-15 04:59:00",3,,1,,,,,,
+"UCR_S014","2025-07-15 08:24:00","off",24,"2025-07-15 08:48:00",1,,2,,1,0,"en el mueble del baño mientras me duchaba",1,"on the bathroom furniture while I showered"
+"UCR_S014","2025-07-15 21:37:00","off",438,"2025-07-16 04:55:00",1,5,1,,,0,"en la mesa junto a mi cama",1,"on the table next to my bed"
+"UCR_S014","2025-07-16 22:20:00","off",400,"2025-07-17 05:00:00",1,5,1,,,0,"junto a mi cama",1,"next to my bed"
+"UCR_S014","2025-07-17 09:29:00","off",11,"2025-07-17 09:40:00",1,3,1,,,0,"en el mueble del baño junto a la ducha",1,"on the bathroom cabinet next to the shower"
+"UCR_S014","2025-07-17 21:45:00","off",431,"2025-07-18 04:56:00",1,5,1,,,0,"mesa junto a la cama",1,"table next to the bed"
+"UCR_S014","2025-07-18 05:40:00","off",20,"2025-07-18 06:00:00",1,,2,,1,1,,1,
+"UCR_S014","2025-07-18 09:39:00","off",12,"2025-07-18 09:51:00",1,3,1,,,0,"mueble del baño",1,"bathroom cabinet"
+"UCR_S014","2025-07-18 23:22:00","off",421,"2025-07-19 06:23:00",1,5,1,,,0,"mesa junto a cama",1,"table next to bed"
+"UCR_S014","2025-07-19 12:00:00","off",32,"2025-07-19 12:32:00",1,3,1,,,0,"mueble del área de baño",1,"bathroom area furniture"
+"UCR_S014","2025-07-20 09:45:00","off",15,"2025-07-20 10:00:00",1,3,1,,,0,"mueble del baño",1,"bathroom cabinet"
+"UCR_S014","2025-07-20 21:29:00","off",445,"2025-07-21 04:54:00",1,5,1,,,0,"mesa junto a mi cama",1,"table next to my bed"
+"UCR_S014","2025-07-21 05:41:00","off",26,"2025-07-21 06:07:00",1,3,1,,,0,"mueble del baño",1,"bathroom cabinet"

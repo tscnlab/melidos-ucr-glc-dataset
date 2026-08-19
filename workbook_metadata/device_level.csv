@@ -1,0 +1,28 @@
+Component,Level,Name,Required,Type,Description
+Device ,0,,,object
+(device.json),1,device_internal_id,Yes,string,Unique ID of the device,UCR_AL01,UCR_AL02,UCR_AL03,UCR_AL04,UCR_AL05,UCR_AL06,UCR_AL07,UCR_AL08,UCR_AL09,UCR_AL10,UCR_AL11,UCR_AL12,UCR_AL13,UCR_AL14,UCR_AL15,UCR_AL16,UCR_AL17,UCR_AL18,UCR_AL19
+,1,device_manufacturer,Yes,string,Manufacturer of the device,LYS Technologies
+,1,device_model,Yes,string,Model of the device,LYS Button
+,1,device_serial_number,Yes,string,Serial number of the device,5397,4996,5467,5399,5179,5501,5457,5237,5379,6305,6121,6132,6115,6111,6837,6253,6679,6359,6306
+,1,device_calibration,Yes,string,Delivery date of device,23.04.2025,23.04.2025,23.04.2025,23.04.2025,23.04.2025,23.04.2025,23.04.2025,23.04.2025,23.04.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025,07.07.2025
+,1,device_sensor,No,array of objects,Individual sensors,-
+,2,device_sensor_type,Yes,string,Type of the sensor,-
+,2,device_sensor_datasheet,No,object |,Sensor datasheet information,-
+,,,,device_datasheet.json
+,1,device_datasheet,Yes,object |,Device datasheet information,(see below)
+,,,,device_datasheet.json
+
+
+Component,Level,Name,Required,Type,Description
+Device/Sensor,0,,,object,,(Only if information is available)
+Datasheet,1,datasheet_manufacturer,Yes,string,Manufacturer of the sensor/device,LYS Technologies
+(device_datasheet.json),1,datasheet_type,Yes,string,Type of the sensor/device,wearable device
+,1,datasheet_model,Yes,string,Model of the sensor/device,LYS Button
+,1,Datasheet_calibration_interval,Yes,number,Required device calibration interval (in days),730
+,1,datasheet_calibration_spectral_sensitivity,Yes,Array of objects,Information about spectral sensitivity calibration
+,2,datasheet_calibration_spectral_sensitivity_,Yes,number,Wavelength (nm)
+,,wavelength
+,2,datasheet_calibration_spectral_sensitivity_,Yes,number,Relative spectral sensititivty at given wavelength
+,,relative
+,1,datasheet_calibration_linearity,Yes,string,Information about linearity calibration
+,1,datasheet_calibration_directional_response,Yes,string,Information about directional response calibration

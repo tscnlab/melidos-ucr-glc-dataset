@@ -1,0 +1,7 @@
+"Id","bedtime","sleepprep","wake","out_ofbed","sleepdelay","awakenings","awake_duration","sleepquality","daytype2","comments","sleep","sleep_duration","comments_english"
+"UCR_S005","2025-06-23 23:35:00","2025-06-23 23:59:00","2025-06-24 07:45:00","2025-06-24 07:50:00",25,0,0,4,2,"Me dormí con alergia, aunque ya estaba mejor, me afecta en lo rápido que me puedo dormir y probablemente en la calidad de dueño","2025-06-24 00:24:00",7.35,"I fell asleep with allergies, although I was already feeling better. It affects how quickly I can fall asleep and probably the quality of sleep."
+"UCR_S005","2025-06-25 01:30:00","2025-06-25 01:30:00","2025-06-25 08:20:00","2025-06-25 08:30:00",10,0,0,4,2,"no","2025-06-25 01:40:00",6.66666666666667,"no"
+"UCR_S005","2025-06-26 03:30:00","2025-06-26 03:30:00","2025-06-26 08:00:00","2025-06-26 08:10:00",10,0,0,2,2,"no","2025-06-26 03:40:00",4.33333333333333,"no"
+"UCR_S005","2025-06-26 23:30:00","2025-06-26 23:55:00","2025-06-27 08:30:00","2025-06-27 08:35:00",5,1,5,3,2,"no","2025-06-27 00:00:00",8.5,"no"
+"UCR_S005","2025-06-27 23:40:00","2025-06-27 23:40:00","2025-06-28 07:11:00","2025-06-28 07:20:00",1,0,0,3,1,"no","2025-06-27 23:41:00",7.5,"no"
+"UCR_S005","2025-06-29 23:00:00","2025-06-29 23:00:00","2025-06-30 05:50:00","2025-06-30 05:50:00",5,0,0,4,2,"no","2025-06-29 23:05:00",6.75,"no"
